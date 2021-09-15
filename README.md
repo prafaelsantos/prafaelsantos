@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando com Front-end
 - 🌱 Estou estudando Typescript
-- 👯 Posso colaborar em projetos React.js
+- 👯 Posso colaborar em projetos JavaScript
 - 🤔 Ajuda com Typescript é sempre bem-vinda
 
 
