@@ -1,4 +1,4 @@
-### Você sabe quem eu sou! Brincadeira. Eu sou o Paulo Rafael 👋
+### Você sabe quem sou eu! Brincadeira. Eu sou o Paulo Rafael 👋
 
 - 🔭 Estou trabalhando com Front-end
 - 🌱 Estou estudando Typescript
